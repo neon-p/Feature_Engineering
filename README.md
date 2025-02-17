@@ -1,1 +1,3 @@
 # Feature_Engineering
+
+This is an class Assignment of our Data Analysis clss. Visualizing the Titanic dataset to gain deeper insights and do the feature engineering for ultimate model. By visualizing the data from multiple perspectives, aim to uncover hidden patterns and relationships that may not be immediately obvious. This process involves techniques like univariate, bivariate, and multivariate analysis to explore individual features, relationships between pairs of features, and interactions among multiple variables. These visualizations help us better understand the data, identify correlations, detect anomalies, and create new features that can improve the performance of machine learning models.
